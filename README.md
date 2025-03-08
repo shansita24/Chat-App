@@ -41,5 +41,5 @@ Frontend
 cd frontend
 npm start
 ```
-Open in Browser
+
 Visit http://localhost:5173 to access the chat application.
